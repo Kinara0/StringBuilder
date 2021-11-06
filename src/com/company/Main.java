@@ -7,6 +7,8 @@ public class Main {
 StringBuilder sb = new StringBuilder("Kinara");
         sb.append(" Chapaneri");
 System.out.println(sb);
+sb.append(" Hi");
+        System.out.println(sb);
 
     }
 }
